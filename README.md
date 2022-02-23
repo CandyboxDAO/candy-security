@@ -1,6 +1,6 @@
-# juice-security
+# candy-security
 
-This repository contains anything related to Juice security (excluding code) – for the time being, it will serve as a record for vulnerability incidents and postmortems.
+This repository contains anything related to Candy security (excluding code) – for the time being, it will serve as a record for vulnerability incidents and postmortems.
 
 ## Incidents
 
